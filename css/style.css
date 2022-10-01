@@ -7,7 +7,7 @@
 
 /* laptop device */
 
-@media screen and (max-device-width: 1600px ){
+@media screen and (max-device-width: 1600px) {
 
 	.hero {
 		height: 100vh;
@@ -26,6 +26,7 @@
 		padding-left: 8%;
 		padding-right: 8%;
 		margin-bottom: 50px;
+		position: fixed;
 	}
 
 	.logo {
@@ -500,6 +501,7 @@
 		padding-left: 8%;
 		padding-right: 8%;
 		margin-bottom: 50px;
+		position: fixed;
 	}
 
 	.logo {
@@ -585,7 +587,7 @@
 	}
 
 	.about-text {
-		width: 550px;
+		width: 500px;
 		padding-left: 10px;
 	}
 
@@ -803,7 +805,7 @@
 	.card {
 		height: 365px;
 		width: 335px;
-		padding: 20px 35px;
+		padding: 20px 0px;
 		background: #191919;
 		border-radius: 20px;
 		margin: 15px;
