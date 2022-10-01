@@ -760,24 +760,17 @@
 	}
 
 
-
-
-
-
-
-
-
-
-
 	.service {
 		background: #101010;
 		width: 100%;
 		padding: 60px 0px;
 	}
 
+
 	.title h2 {
 		color: white;
-		font-size: 55px;
+		width: 400px;
+		font-size: 30px;
 		text-align: center;
 		margin: 30px auto;
 		text-align: center;
@@ -785,7 +778,8 @@
 
 	.title h5 {
 		color: white;
-		font-size: 28px;
+		width: 400px;
+		font-size: 20px;
 		margin: 30px auto;
 		text-align: center;
 		transition: opacity 0.15s;
