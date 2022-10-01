@@ -7,7 +7,7 @@
 
 /* laptop device */
 
-@media screen and (max-device-width: 1600px) {
+@media screen and (max-device-width: 1600px ){
 
 	.hero {
 		height: 100vh;
