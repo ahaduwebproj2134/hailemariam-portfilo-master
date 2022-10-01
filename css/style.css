@@ -172,7 +172,7 @@ h4 {
 	padding: 10px;
 }
 
-.education-content a{
+.education-content a {
 	text-decoration: none;
 	opacity: 1;
 }
@@ -181,6 +181,7 @@ h4 {
 	color: grey;
 	margin-bottom: 10px;
 }
+
 .education h5 {
 	color: white;
 	letter-spacing: 2px;
@@ -206,7 +207,7 @@ h4 {
 	margin: 10px;
 }
 
-.expireance-content{
+.expireance-content {
 	margin-bottom: 50px;
 }
 
@@ -309,7 +310,7 @@ button:hover {
 	transition: opacity 0.15s;
 }
 
-.title h5:hover{
+.title h5:hover {
 	opacity: 0.7;
 }
 
@@ -408,6 +409,11 @@ h5 {
 	cursor: pointer;
 }
 
+.contact-me .button-two:active {
+	opacity: 0.3;
+	cursor: pointer;
+}
+
 footer {
 	position: relative;
 	width: 100%;
@@ -457,9 +463,10 @@ footer p:nth-child(2) {
 	transition: .3s;
 }
 
-.social-element{
+.social-element {
 	margin-bottom: 20px;
 }
+
 .end {
 	position: absolute;
 	color: #f9004d;
